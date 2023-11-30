@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I build stuff with TypeScript and Python 🔥
+👨‍💻 I build stuff with **TypeScript** and **Python** 🔥
 
 📫 Learn more about me at [aniszewski.dev](https://aniszewski.dev) 😎
 <!--
