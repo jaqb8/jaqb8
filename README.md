@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👨‍💻 I build stuff with TypeScript and Python 🔥
+
 📫 Learn more about me at [aniszewski.dev](https://aniszewski.dev) 😎
 <!--
 **jaqb8/jaqb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
